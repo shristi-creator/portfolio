@@ -109,7 +109,7 @@ I'm excited to learn, collaborate, work on meaningful projects, and gradually de
 I'm interested in connecting with students, researchers, and professionals working in biotechnology, bioinformatics, computational biology, and healthcare technology.
 
 - 💻 **GitHub:** [@shristi-creator](https://github.com/shristi-creator)
-- 🔗 **LinkedIn:** Visit the LinkedIn link on my GitHub profile.
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/shristi-kanowjiya-52763a275/
 
 ---
 
